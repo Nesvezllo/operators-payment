@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.9653bc95.css",
+    "main.js": "/react-gh-pages/static/js/main.07a3266c.js",
+    "static/media/Logo_Tele2_.jpg": "/react-gh-pages/static/media/Logo_Tele2_.ee851f67a8b2ae6487f3.jpg",
+    "static/media/unnamed.png": "/react-gh-pages/static/media/unnamed.88df06d7f722dae168ea.png",
+    "static/media/V4yULYCjCb.jpg": "/react-gh-pages/static/media/V4yULYCjCb.90ceab65e0c2f496eea6.jpg",
+    "static/media/beeline.jpg": "/react-gh-pages/static/media/beeline.55afe74b96752cf0bf5d.jpg",
+    "static/media/megafon.png": "/react-gh-pages/static/media/megafon.43452a8b1786dea7809a.png",
+    "static/media/github.jpg": "/react-gh-pages/static/media/github.d54240ecc71ab1b3d57e.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.9653bc95.css.map": "/react-gh-pages/static/css/main.9653bc95.css.map",
+    "main.07a3266c.js.map": "/react-gh-pages/static/js/main.07a3266c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9653bc95.css",
+    "static/js/main.07a3266c.js"
+  ]
+}
