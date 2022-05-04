@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/operators-payment/static/css/main.9653bc95.css",
-    "main.js": "/operators-payment/static/js/main.d896672e.js",
+    "main.css": "/operators-payment/static/css/main.004fb730.css",
+    "main.js": "/operators-payment/static/js/main.47f3b85c.js",
     "static/media/Logo_Tele2_.jpg": "/operators-payment/static/media/Logo_Tele2_.ee851f67a8b2ae6487f3.jpg",
     "static/media/unnamed.png": "/operators-payment/static/media/unnamed.88df06d7f722dae168ea.png",
     "static/media/V4yULYCjCb.jpg": "/operators-payment/static/media/V4yULYCjCb.90ceab65e0c2f496eea6.jpg",
@@ -9,11 +9,11 @@
     "static/media/megafon.png": "/operators-payment/static/media/megafon.43452a8b1786dea7809a.png",
     "static/media/github.jpg": "/operators-payment/static/media/github.d54240ecc71ab1b3d57e.jpg",
     "index.html": "/operators-payment/index.html",
-    "main.9653bc95.css.map": "/operators-payment/static/css/main.9653bc95.css.map",
-    "main.d896672e.js.map": "/operators-payment/static/js/main.d896672e.js.map"
+    "main.004fb730.css.map": "/operators-payment/static/css/main.004fb730.css.map",
+    "main.47f3b85c.js.map": "/operators-payment/static/js/main.47f3b85c.js.map"
   },
   "entrypoints": [
-    "static/css/main.9653bc95.css",
-    "static/js/main.d896672e.js"
+    "static/css/main.004fb730.css",
+    "static/js/main.47f3b85c.js"
   ]
 }
