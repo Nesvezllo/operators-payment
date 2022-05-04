@@ -60,9 +60,8 @@ const PopupForm = ({}) => {
                     <p>Телефон</p>
                     <MaskedInput 
                         mask={["+",7,'(', /\d/, /\d/, /\d/, ')', ' ', /\d/, /\d/, /\d/, '-', /\d/, /\d/, /\d/, /\d/]}
-                        showMask={true}
                         name={"tel_no"} 
-                        placeholder=""
+                        placeholder="+7(___) ___-____"
                         onChange={handleChange}
                         onBlur={handleBlur}
                         value={values.tel_no}
